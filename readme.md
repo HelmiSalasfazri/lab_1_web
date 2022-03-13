@@ -37,10 +37,6 @@ html
 <!-- Ini adalah paragraf kedua -->
 <p align="right">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
 
-
-* Maka hasilnya akan seperti berikut.
-![paragraf](paragraf.png)
-
 ## Langkah 3
 * Menambahkan judul menggunakan Tag Heading
 html
@@ -49,10 +45,6 @@ html
 
 <!-- judul paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
-
-
-* Maka hasilnya akan seperti berikut.
-![heading](judul.png)
 
 ## Langkah 4
 * Memformat Teks
@@ -64,8 +56,6 @@ html
 | `<i>` | Membuat teks italic |
 | `<u>` | Membuat teks underline |
 
-* Maka hasilnya akan seperti berikut.
-![format_text](format_text.png)
 
 ## Langkah 5
 * Menyisipkan Gambar
@@ -76,8 +66,6 @@ html
 <!-- menambahkan gambar pada dokumen -->
 <img src="logo_upb.png" width="200" title="Logo Univeritas Pelita Bangsa">
 
-* Maka hasilnya akan seperti berikut.
-![image](Image.png)
 
 ## Langkah 6
 * Menambahkan hyperlink
@@ -88,9 +76,6 @@ html
         <a href="lab1_halaman2.html">Halaman 2</a>
       </nav>
       <hr>
-
-* Maka hasilnya akan seperti berikut.
-![hyper_link](link.png)
 
 * Kemudian kita membuat lab1_halaman2.html
 
