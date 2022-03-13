@@ -26,7 +26,7 @@
 
 
 * Maka hasilnya akan seperti berikut.
-![struktur](langkah1.png)
+![struktur](1.png)
 
 ## LANGKAH 2
 * Membuat 2 buah paragraf dan atur atribut paragraf (Rata Kiri / Rata Kanan / Rata Tengah / Sama Rata)
@@ -116,7 +116,7 @@ html
 
 
 * Maka hasilnya akan seperti berikut.
-![Hyper_link2](halam2.png)
+![Hyper_link2](2.png)
 
 # Jawab Pertanyaan Berikut
 
